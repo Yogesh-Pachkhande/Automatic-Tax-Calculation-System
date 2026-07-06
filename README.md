@@ -52,10 +52,13 @@ The application automates property tax calculations, validates property records,
 ---
 
 ## 📷 Screenshots
-<img width="1213" height="652" alt="image" src="https://github.com/user-attachments/assets/b100e6c2-57e1-45cc-b8ae-8edea7dcfcff" />
-
 *Dashboard Screenshot*
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/da834c3b-018a-40e5-bdfa-41a70af65b2f" />
 
+
+ * Datasheet Entry From *
+   <img width="1560" height="1027" alt="image" src="https://github.com/user-attachments/assets/136c5d83-7dde-41c8-8cdf-3f173bfe0bae" />
+ 
 *Tax Calculation Sheet*
 <img width="1357" height="1027" alt="image" src="https://github.com/user-attachments/assets/36f1b151-74a6-4875-bcc3-d2768f6e0b18" />
 
